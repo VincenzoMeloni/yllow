@@ -1,3 +1,4 @@
 # yllow
 HelloWorld("System.out.println"); :skull:
-![Animazione]([https://tenor.com/it/view/berserk-manga-berserker-armor-armor-guts-gif-25693578])
+![Animazione](media1.tenor.com/m/owXjbaop6YQAAAAd/berserk-manga.gif)
+
